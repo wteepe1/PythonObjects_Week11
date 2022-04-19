@@ -251,7 +251,9 @@ sameSpecies(myOrganisms[0],newOrg)
 ```
 Practice Exercise 2
 
-(1) Add a describe() method to the book class you created above that prints out a sentence or two summarizing information about a book.
+(1) Add a describe() method to the book class you created above that prints out a 
+    sentence or two summarizing information about a book.
 
-(2) Create a function to check whether two books are the same. To be the same, all information (title, authors, etc.) about the books should be the same.
+(2) Create a function to check whether two books are the same. To be the same, all information 
+    (title, authors, etc.) about the books should be the same.
 ```
